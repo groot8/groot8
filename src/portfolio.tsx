@@ -145,7 +145,7 @@ const hobbies = [
       {/* Main Content */}
       <main className="container mx-auto px-6 pt-24 pb-12">
         {/* Hero Section */}
-        <section className="mb-16 animate-fadeIn flex items-center space-x-10  ">
+        <section className="mb-16 animate-fadeIn flex flex-col md:flex-row items-center space-y-10 md:space-y-0 md:space-x-10">
 
         <img className=" w-48 h-48 rounded-full border-4 border-[#548e90] dark:border-[#F6AD54]" src={darkMode ? ProfileDark: ProfileLight } alt="Profile" />
           <div className="max-w-4xl">

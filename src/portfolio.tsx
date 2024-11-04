@@ -224,7 +224,7 @@ const hobbies = [
             <div
               className="p-6 rounded-lg transition-all duration-300 hover:shadow-md  dark:hover:shadow-[#f6ad542a] animate-slideUp"
             >
-              <h4 className="text-xl font-bold mb-2">Bachelor of COMPUTER AND SYSTEM ENGINEERING</h4>
+              <h4 className="text-xl font-bold mb-2">Bachelor of Computer and System Engineering</h4>
               <div className="text-sm opacity-80 mb-2">
                 <span>University of Ain Shams</span> • <span>2015 – 2019</span>
               </div>

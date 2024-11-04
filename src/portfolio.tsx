@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { Sun, Moon, Mail, Phone, MapPin, Github, Linkedin,Popcorn } from 'lucide-react';
-import GrootScene from './groot';
 import GrootIcon from './assets/groot-icon';
 import ProfileLight from './assets/profile-light.png';
 import ProfileDark from './assets/profile-dark.jpeg';

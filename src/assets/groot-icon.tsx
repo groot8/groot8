@@ -1,6 +1,5 @@
-import * as React from "react"
 
-function GrootIcon(props) {
+function GrootIcon() {
   return (
     <svg
       viewBox="0 0 800 800"

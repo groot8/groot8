@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://groot8.github.io/portfolio",
+  "homepage": "https://groot8.github.io/groot8",
   "type": "module",
   "scripts": {
     "dev": "vite",

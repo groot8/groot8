@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "groot8",
   "private": true,
   "version": "0.1.0",
   "homepage": "https://groot8.github.io/groot8",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@react-three/drei": "^9.115.0",

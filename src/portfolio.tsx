@@ -244,7 +244,7 @@ const hobbies = [
               >
                 <h4 className="text-xl font-bold mb-2">{job.company}</h4>
                 <div className="text-sm opacity-80 mb-4">
-                  <span>{job.role}</span> • <span>{job.period}</span> • <span>{job.location}</span>
+                  <span>{job.role}</span> • <span>{job.period}</span> 
                 </div>
                 <ul className="list-disc list-inside space-y-2">
                   {job.achievements.map((achievement, i) => (
@@ -318,7 +318,7 @@ const hobbies = [
         </div>
       </footer>
 
-      <style jsx global>{`
+      <style>{`
         @keyframes bounce {
             0%, 20%, 50%, 80%, 100% {
                 transform: translateY(0);
